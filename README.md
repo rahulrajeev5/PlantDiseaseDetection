@@ -5,8 +5,11 @@ This Android application leverages machine learning and computer vision to detec
 
 Key Features
 ✅ Real-Time Disease Detection – Capture or upload images to instantly identify plant diseases.
+
 ✅ Machine Learning Integration – Uses TensorFlow Lite and models like ResNet50, InceptionV3, and custom CNN for high accuracy.
+
 ✅ Cloud-Powered Backend – Google Cloud Platform (GCP) and Firebase for authentication, storage, and real-time predictions.
+
 ✅ Optimized for Mobile – Achieves 90%+ validation accuracy with InceptionV3, ensuring fast and efficient performance.
 
 Tech Stack
