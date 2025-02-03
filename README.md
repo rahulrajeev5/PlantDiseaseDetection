@@ -1,9 +1,10 @@
-Plant Disease Detection Android App 🌱📱
+*Plant Disease Detection Android App* 🌱📱
 
-Overview
+*Overview*
 This Android application leverages machine learning and computer vision to detect plant diseases in real time. It integrates a TensorFlow Lite model to classify 38 different plant diseases using a custom-trained CNN model on a dataset of 59,305 images.
 
-Key Features
+*Key Features*
+
 ✅ Real-Time Disease Detection – Capture or upload images to instantly identify plant diseases.
 
 ✅ Machine Learning Integration – Uses TensorFlow Lite and models like ResNet50, InceptionV3, and custom CNN for high accuracy.
@@ -12,15 +13,22 @@ Key Features
 
 ✅ Optimized for Mobile – Achieves 90%+ validation accuracy with InceptionV3, ensuring fast and efficient performance.
 
-Tech Stack
+*Tech Stack*
+
 🔹 Frontend: Java, Kotlin, Android Studio
+
 🔹 Machine Learning: TensorFlow Lite, Scikit-learn
+
 🔹 Backend: Firebase, Google Cloud Platform (GCP)
 
-How It Works
+*How It Works*
+
 1️⃣ User uploads a plant image (or captures one using the camera).
+
 2️⃣ Image is processed using the TensorFlow Lite model.
+
 3️⃣ The app predicts the disease and displays the result.
+
 4️⃣ Recommendation system provides basic guidance based on the detected disease!
 
 ![Screenshot 2025-02-03 153521](https://github.com/user-attachments/assets/9b1ce20e-eb42-4ce5-aa51-3779e668aac1)
