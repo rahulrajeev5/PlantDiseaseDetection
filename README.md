@@ -1,4 +1,5 @@
 Plant Disease Detection Android App 🌱📱
+
 Overview
 This Android application leverages machine learning and computer vision to detect plant diseases in real time. It integrates a TensorFlow Lite model to classify 38 different plant diseases using a custom-trained CNN model on a dataset of 59,305 images.
 
